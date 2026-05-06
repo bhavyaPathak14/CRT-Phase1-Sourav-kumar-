@@ -20,5 +20,5 @@ class student{
 int main(){
     student s1;
     s1.show();
-     
+     return 0;
 }
